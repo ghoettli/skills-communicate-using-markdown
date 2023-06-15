@@ -1,3 +1,5 @@
-# Header 1 
+# Catness
 
-## header 2 etc
+## Da Cat
+
+![Image of da cool Yaktocat](https://octodex.github.com/images/yaktocat.png)
